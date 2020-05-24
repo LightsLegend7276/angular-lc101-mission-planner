@@ -1,4 +1,11 @@
 .box {
     display: flex;
     padding: 10px;
+    align-self: center;
+}
+
+.box div {
+    padding: 20px;
+    border-right: dotted;
+    border-left: dotted;
 }
